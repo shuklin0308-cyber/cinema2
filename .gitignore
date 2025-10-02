@@ -1,0 +1,14 @@
+# Логи и временные файлы
+*.log
+*.tmp
+*.cache
+
+# Конфиги с паролями
+config.php
+.env
+
+# Composer vendor (если есть)
+/vendor/
+
+# Служебные файлы Beget
+.beget*
